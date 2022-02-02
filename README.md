@@ -13,7 +13,7 @@ Projeto do Bootcamp HTML Web Developer da Digital Innovation One, abordando os c
 
 ---
 
-⌨️ com 💜 por Déborah Ballaminut de Lacerda
+por Déborah Ballaminut de Lacerda 💜
 
 
 
